@@ -1,3 +1,22 @@
+.topnav {
+    background-color: teal;
+    height: 3em;
+    
+}
+
+.topnav a {
+    float: left;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+    color: tomato;
+}
+
 h1 {
     color: darkolivegreen;
     text-align: center;
